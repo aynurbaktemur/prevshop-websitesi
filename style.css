@@ -51,6 +51,26 @@ header.backImage .backImage-heading {
     color: #c5a098;
 }
 
+/* about start */
+.mySection {
+    padding: 5rem 0;
+    background-color: #cecece;
+}
+
+.mySection h2.s-heading {
+    font-size: 2.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mySection h3.s-subheading {
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-style: italic;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 @media(max-width:991.98px) {
     header.backImage {
         padding-top: 11rem;
